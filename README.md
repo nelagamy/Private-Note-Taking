@@ -1,2 +1,2 @@
 # Private-Note-Taking
-A secure API for a back-end implementation of a note taking application
+An API for a secure back-end implementation of a note-taking application.
